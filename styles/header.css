@@ -15,7 +15,7 @@ header.top{
     transition: transform 500ms;
   }
 
-  img[src*="logo"]:hover {
+  img[src*="logotipo"]:hover {
     transform: rotate(90deg);
   }
 
